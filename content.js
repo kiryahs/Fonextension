@@ -4,8 +4,8 @@ let isProcessing = false;
 let historyClicked = false;
 
 // Замените на ваш токен бота и chat_id
-const TELEGRAM_BOT_TOKEN = '8161324627:AAEdBKEjzXbT4cQ89Xm608hRepbxZQ6whk4';
-const TELEGRAM_CHAT_ID = '281941384';
+const TELEGRAM_BOT_TOKEN = '';
+const TELEGRAM_CHAT_ID = '';
 
 /**
  * Имитация клика на элемент
